@@ -39,14 +39,14 @@
 
 ## 👨‍💻 About My Engineering Journey
 
-I am a Software Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at GLA University, maintaining an 8.08 CGPA[cite: 1]. My core engineering philosophy sits at the intersection of scalable backend architectures, intelligent data processing, and physical hardware integration[cite: 1]. 
+I am a Software Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at GLA University, maintaining an 8.08 CGPA. My core engineering philosophy sits at the intersection of scalable backend architectures, intelligent data processing, and physical hardware integration. 
 
-Recently, I served as a Research Intern at IIT Jammu, where I developed expertise in complex biomedical signal processing using EEG signals[cite: 1]. I also built full-stack digital solutions at Diassence Healthcare[cite: 1] and managed intricate repository architectures for the bilingual heritage application, Postal26-Museum Kiosk, engineering robust historical content deployment and resolving structural bottlenecks. I am deeply passionate about leveraging machine learning and system optimization to create tangible, real-world impact.
+Recently, I served as a Research Intern at IIT Jammu, where I developed expertise in complex biomedical signal processing using EEG signals. I also built full-stack digital solutions at Diassence Healthcare and managed intricate repository architectures for the bilingual heritage application, Postal26-Museum Kiosk, engineering robust historical content deployment and resolving structural bottlenecks. I am deeply passionate about leveraging machine learning and system optimization to create tangible, real-world impact.
 
 ### ⚡ Current Focus
 
 - 🌱 **Currently learning:** Advanced System Design, Distributed Systems, and cutting-edge LLM integration.
-- 🚀 **Currently building:** **ZENMAT**, an AI-powered smart yoga mat with C++ hardware integration[cite: 1], and expanding bilingual museum interactive systems.
+- 🚀 **Currently building:** **ZENMAT**, an AI-powered smart yoga mat with C++ hardware integration, and expanding bilingual museum interactive systems.
 - 🤝 **Looking to collaborate on:** Open-source AI models, MERN-stack scalability projects, and IoT innovations.
 - 💬 **Ask me about:** Python, Artificial Intelligence, Machine Learning architectures, and Git version control strategies.
 
@@ -91,10 +91,10 @@ Recently, I served as a Research Intern at IIT Jammu, where I developed expertis
 
 | Project | Description | Technology Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **ZENMAT (Smart Yoga Mat)**[cite: 1] | Developed a hardware-integrated smart yoga mat with smartwatch synchronization to track heart rate and duration[cite: 1]. Offers real-time AI-powered posture correction[cite: 1]. | `C++`, `Python`, `OpenCV`, `TensorFlow`, `IoT` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
+| **ZENMAT (Smart Yoga Mat)** | Developed a hardware-integrated smart yoga mat with smartwatch synchronization to track heart rate and duration. Offers real-time AI-powered posture correction. | `C++`, `Python`, `OpenCV`, `TensorFlow`, `IoT` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
 | **Postal26-Museum Kiosk** | Engineered a comprehensive bilingual (Hindi/English) heritage interactive application. Managed complex repository conflicts and architected historical content deployment for Subhash Chandra Bose’s letters. | `React`, `Git`, `Bilingual Routing`, `Node.js` | [🔗 GitHub](#) |
-| **AI Resume Screening Tool**[cite: 1] | An AI-driven ATS screening tool leveraging the Gemini API and NLTK for advanced data processing to evaluate candidate resumes accurately[cite: 1]. | `Python`, `Streamlit`, `Gemini API`, `NLTK` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
-| **Deepfake Detection**[cite: 1] | Built advanced algorithms for content credibility analysis, identifying false information and deepfake media manipulation using machine learning[cite: 1]. | `Python`, `Streamlit`, `BERT Model`, `TensorFlow` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
+| **AI Resume Screening Tool** | An AI-driven ATS screening tool leveraging the Gemini API and NLTK for advanced data processing to evaluate candidate resumes accurately. | `Python`, `Streamlit`, `Gemini API`, `NLTK` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
+| **Deepfake Detection** | Built advanced algorithms for content credibility analysis, identifying false information and deepfake media manipulation using machine learning. | `Python`, `Streamlit`, `BERT Model`, `TensorFlow` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
 
 ---
 
@@ -137,11 +137,11 @@ Recently, I served as a Research Intern at IIT Jammu, where I developed expertis
 
 ## 🏅 Honors, Achievements & Certifications
 
-*   🥇 **1st Rank, Poster Presentation (AI):** Organized by IBM at IBM ICE Day (Nov 2024)[cite: 1].
-*   🥇 **1st Place, Hackathon:** INNOKSHETRA-24 held at NIT Kurukshetra (Sep 2024)[cite: 1].
-*   🥇 **1st Prize, Hardware Category:** Smart India Hackathon (SIH) internal round (Aug 2024)[cite: 1].
-*   🎖️ **Finalist, Hackathon:** SPHINX-24 held at MNIT Jaipur (Nov 2024)[cite: 1].
-*   📜 **Certifications:** Python Programming (S-Grade) by Excel Computer Education[cite: 1] & Career Essentials in Generative AI by Microsoft/LinkedIn[cite: 1].
+*   🥇 **1st Rank, Poster Presentation (AI):** Organized by IBM at IBM ICE Day (Nov 2024).
+*   🥇 **1st Place, Hackathon:** INNOKSHETRA-24 held at NIT Kurukshetra (Sep 2024).
+*   🥇 **1st Prize, Hardware Category:** Smart India Hackathon (SIH) internal round (Aug 2024).
+*   🎖️ **Finalist, Hackathon:** SPHINX-24 held at MNIT Jaipur (Nov 2024).
+*   📜 **Certifications:** Python Programming (S-Grade) by Excel Computer Education & Career Essentials in Generative AI by Microsoft/LinkedIn.
 
 ---
 
