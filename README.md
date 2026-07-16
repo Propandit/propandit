@@ -100,25 +100,23 @@ Recently, I served as a Research Intern at IIT Jammu, where I developed expertis
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=propandit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
-</div>
+
+
 
 <br/>
 
 <div align="center">
   <!-- Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=propandit&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&v=1" width="48%" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=propandit&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&v=1" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<div align="center">
-  <!-- Top Languages Card -->
+<!-- <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=propandit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&v=1" width="60%" alt="Top Languages" />
-</div>
+</div> -->
 
 <br/>
 
