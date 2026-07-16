@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About My Engineering Journey
 
-I am a Software Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at GLA University, maintaining an 8.08 CGPA. My core engineering philosophy sits at the intersection of scalable backend architectures, intelligent data processing, and physical hardware integration. 
+I am a Software Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at GLA University, maintaining an 8.1 CGPA. My core engineering philosophy sits at the intersection of scalable backend architectures, intelligent data processing, and physical hardware integration. 
 
 Recently, I served as a Research Intern at IIT Jammu, where I developed expertise in complex biomedical signal processing using EEG signals. I also built full-stack digital solutions at Diassence Healthcare and managed intricate repository architectures for the bilingual heritage application, Postal26-Museum Kiosk, engineering robust historical content deployment and resolving structural bottlenecks. I am deeply passionate about leveraging machine learning and system optimization to create tangible, real-world impact.
 
