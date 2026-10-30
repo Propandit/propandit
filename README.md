@@ -91,6 +91,8 @@ Recently, I served as a Research Intern at IIT Jammu, where I developed expertis
 
 | Project | Description | Technology Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Story of Change (AI Comic Studio)** | Full-stack generative AI kiosk experience engineered for a Google Cloud event. Converts visitor input into a 6-panel graphic novel with camera portrait capture, speech-to-text, reference-guided artwork generation, and dynamic face-aware lettering. | `React`, `Node.js`, `Express`, `MongoDB`, `GCS`, `Gemini 3 Flash` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
+| **Multilingual RAG Voice Agent** | Telephone-interfaced voice assistant delivering factual answers across English, Hindi, and Hinglish. Integrates native Windows Raw Input for physical handset/keypad HID events with dual SQLite FTS5 BM25 retrieval and ElevenLabs conversational agents. | `Python`, `SQLite FTS5`, `ElevenLabs`, `FastAPI`, `Windows API` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
 | **ZENMAT (Smart Yoga Mat)** | Developed a hardware-integrated smart yoga mat with smartwatch synchronization to track heart rate and duration. Offers real-time AI-powered posture correction. | `C++`, `Python`, `OpenCV`, `TensorFlow`, `IoT` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
 | **Postal26-Museum Kiosk** | Engineered a comprehensive bilingual (Hindi/English) heritage interactive application. Managed complex repository conflicts and architected historical content deployment for Subhash Chandra Bose’s letters. | `React`, `Git`, `Bilingual Routing`, `Node.js` | [🔗 GitHub](#) |
 | **AI Resume Screening Tool** | An AI-driven ATS screening tool leveraging the Gemini API and NLTK for advanced data processing to evaluate candidate resumes accurately. | `Python`, `Streamlit`, `Gemini API`, `NLTK` | [🔗 GitHub](#) <br> [🌐 Demo](#) |
@@ -99,9 +101,6 @@ Recently, I served as a Research Intern at IIT Jammu, where I developed expertis
 ---
 
 ## 📈 GitHub Analytics
-
-
-
 
 <br/>
 
@@ -133,11 +132,11 @@ Recently, I served as a Research Intern at IIT Jammu, where I developed expertis
 
 ## 🏅 Honors, Achievements & Certifications
 
-*   🥇 **1st Rank, Poster Presentation (AI):** Organized by IBM at IBM ICE Day (Nov 2024).
-*   🥇 **1st Place, Hackathon:** INNOKSHETRA-24 held at NIT Kurukshetra (Sep 2024).
-*   🥇 **1st Prize, Hardware Category:** Smart India Hackathon (SIH) internal round (Aug 2024).
-*   🎖️ **Finalist, Hackathon:** SPHINX-24 held at MNIT Jaipur (Nov 2024).
-*   📜 **Certifications:** Python Programming (S-Grade) by Excel Computer Education & Career Essentials in Generative AI by Microsoft/LinkedIn.
+*    🥇 **1st Rank, Poster Presentation (AI):** Organized by IBM at IBM ICE Day (Nov 2024).
+*    🥇 **1st Place, Hackathon:** INNOKSHETRA-24 held at NIT Kurukshetra (Sep 2024).
+*    🥇 **1st Prize, Hardware Category:** Smart India Hackathon (SIH) internal round (Aug 2024).
+*    🎖️ **Finalist, Hackathon:** SPHINX-24 held at MNIT Jaipur (Nov 2024).
+*    📜 **Certifications:** Python Programming (S-Grade) by Excel Computer Education & Career Essentials in Generative AI by Microsoft/LinkedIn.
 
 ---
 
